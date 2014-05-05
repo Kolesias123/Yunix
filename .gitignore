@@ -1,0 +1,4 @@
+/build/
+/ref/
+/packages/
+*.lock

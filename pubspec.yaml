@@ -1,0 +1,8 @@
+name: Yunix
+version: 1.0.0
+author: Ivan
+description: Motor de emulación para Habbo Hotel
+dependencies:
+  ansicolor: any
+  ini: any
+  sqljocky: any
